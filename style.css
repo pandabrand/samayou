@@ -40,7 +40,7 @@ h1 {
 }
 
 .entry .main {
- font: normal 1em/1.375 'Alegreya', Georgia, Times, serif;
+ font: normal 1em/1.375em 'Crimson Text', Georgia, Times, serif;
 }
 
 .entry .main p {
@@ -55,3 +55,45 @@ h1 {
   margin-top: 0.5em;
   opacity: 0.7;
 } 
+
+#body {
+  margin: 40px auto;
+  padding: 0 1em;
+  max-width: 61.75em;
+}
+
+h1 {
+  margin-left: 14.575%;
+  width: 70.85%;
+}
+
+.entry {
+  float: left;
+  width: 100%;
+}
+
+.entry h2 {
+  float: right;
+  width: 85.425%;
+}
+
+.entry .info {
+  float: left;
+  margin-top: 0.72727em;
+  width: 12.551%;
+}
+
+.entry .content {
+  float: right;
+  width: 85.425%;
+}
+
+.entry .main {
+  float: left;
+  width: 82.938%;
+}
+
+.entry .meta {
+  float: right;
+  width: 14.692%;
+}
